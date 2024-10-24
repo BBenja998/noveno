@@ -1,6 +1,20 @@
-.grande { font-size: 60px; }
-
 body{
-  background-color:#66ff99;
-  
+  background-color: #009688;
+  font-family: arial;
+  text-align: center;
+}
+
+
+fotos{
+  width: 50%;
+  height: auto;
+}
+
+img{
+  width: 100px;
+  height:auto;
+}
+h1{
+  font-size: 60px; 
+  color:#e53935;
 }
